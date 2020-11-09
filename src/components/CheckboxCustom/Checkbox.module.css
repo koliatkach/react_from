@@ -1,0 +1,7 @@
+.label {
+    margin-left: 7px;
+    color: #fff;
+}
+.label:checked {
+    background: #61dafb;
+}

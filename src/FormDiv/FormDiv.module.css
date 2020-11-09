@@ -1,0 +1,30 @@
+.FormDiv {
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    flex-grow: 1;
+    width: 100%;
+    background: linear-gradient(90deg, #5041b2 0%, #7969e6 100%);
+}
+
+.FormDiv h1 {
+    color: #fff;
+    text-align: center;
+}
+
+.FormDivWrapper {
+    width: 400px;
+    height: 300px;
+    border: 2px solid #61dafb;
+    border-radius: 15px;
+}
+
+.btnSubmit {
+    width: 380px;
+    border: 1px solid #61dafb;
+    background: #61dafb;
+    height: 30px;
+    border-radius: 15px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
